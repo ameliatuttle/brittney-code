@@ -2,3 +2,8 @@ body{
     text-align: center;
     background-color: green;
 }
+
+img {
+    border: 1px solid #000;
+    border-radius: 60%;
+}
